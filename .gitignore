@@ -1,0 +1,8 @@
+node_modules/
+state/*.png
+state/*.html
+state/*.json
+!state/.gitkeep
+logs/*.log
+!logs/.gitkeep
+

@@ -1,0 +1,15 @@
+{
+  "name": "freeltc-autoclaim",
+  "version": "0.1.0",
+  "description": "FreeLTC login solver and faucet autoclaim scaffold.",
+  "type": "commonjs",
+  "scripts": {
+    "capture-login-captcha": "node src/cli.js capture-login-captcha",
+    "login-once": "node src/cli.js login-once",
+    "probe-session": "node src/cli.js probe-session"
+  },
+  "dependencies": {
+    "playwright-core": "^1.59.1"
+  }
+}
+
