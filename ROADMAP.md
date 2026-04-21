@@ -4,10 +4,10 @@
 - [done] 1. Map live login page and captcha boundary
 - [done] 2. Build browser automation scaffold with persistent session storage
 - [done] 3. Implement reusable anti-captcha solver for the new login widget
-- [in progress] 4. Validate real login on the provided account
+- [in progress] 4. Validate real login on the provided account, current blocker is site-side VPN/proxy rejection on this VPS/browser egress
 - [pending] 5. Map authenticated dashboard and faucet boundaries
 - [pending] 6. Implement faucet claim loop with downstream success oracle
-- [pending] 7. Commit and push project plus reusable solver update to GitHub
+- [done] 7. Commit and push project plus reusable solver update to GitHub
 
 ## Boundary catalog
 | Boundary | Status | Notes |

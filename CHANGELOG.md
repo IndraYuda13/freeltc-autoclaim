@@ -23,4 +23,4 @@
   - outcome: `VPN/ Proxy is not allowed!`
   - meaning: the anti-captcha and form submit are working, but this VPS/browser egress is being rejected on reputation grounds.
 - Added `src/session-probe.js` so an imported authenticated cookie jar can be tested immediately against `/dashboard`, `/faucet`, and related candidate routes without reworking the repo.
-
+- Published the scaffold repo to GitHub at `https://github.com/IndraYuda13/freeltc-autoclaim`.
